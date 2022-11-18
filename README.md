@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://github.com/Matheus-Korth">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Korth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Korth&langs_count=7&theme=tokyonight&hide=Assembly,Cmake,Shell,Dockerfile,Makefile,c%2B%2B&"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api?username=Matheus-Korth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Korth&langs_count=7&theme=tokyonight&hide=Assembly,Cmake,Shell,Dockerfile,Makefile,c%2B%2B&"/>
     
 </div>
 <div align="center"><br>
