@@ -3,7 +3,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Korth&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <br>
   <br>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Korth&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Korth&langs_count=7&theme=tokyonight&hide=Assembly,Cmake,Shell,Dockerfile,Makefile,c%2B%2B&"/>
     
 </div>
 <div align="center"><br>
